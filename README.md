@@ -15,3 +15,5 @@ FINAL PRODUCT SHOWS A STRONG UNDERSTANDING OF CODE
 STUDENT PRODUCED WORK WITH MINIMUM ASSISTANCE
 
 
+ALthough missing lists, her thought process is interesting for a student who has coded for only 4 weeks.
+
