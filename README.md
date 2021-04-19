@@ -1,6 +1,8 @@
 # student_daniella
 
 
+Written by a 6th grade student.
+
 This is a 6th grade student's code from the first app project.  THis was the assignment.
 You will make an app. It can be an invite OR something else creative. You must have the following python concepts:
 
